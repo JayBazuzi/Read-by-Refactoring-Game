@@ -15,7 +15,7 @@ Team generates a list of 5-10 items. Need not be comprehensive.
 >     - Misleading names
 >     - Functions that are too long
 >
-> We're going to play a game. We win the game when everyone understands this function. When you have an insight about what this function does, you can explain it the rest of the team by making one of two moves: Rename or Extract Method.
+> We're going to play a game. We win the game when everyone understands this function. When you have an insight about what this function does, you can explain it the rest of the team by making one of two moves: Rename (when you understand what an entity really is/does) or Extract Method (when you see a chunk that is different than the rest).
 
 When a player calls out a move, the Smart Input Device will make the change and commit it to the branch.
 
